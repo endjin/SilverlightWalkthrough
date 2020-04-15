@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightWalkthrough", "SilverlightWalkthrough\SilverlightWalkthrough.csproj", "{D170E591-3E49-4359-87EF-2F15B8EFE804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightWalkthrough.Web", "SilverlightWalkthrough.Web\SilverlightWalkthrough.Web.csproj", "{FCB835DA-CFDA-4B7B-B08D-6B0A60CCFB3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D170E591-3E49-4359-87EF-2F15B8EFE804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D170E591-3E49-4359-87EF-2F15B8EFE804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D170E591-3E49-4359-87EF-2F15B8EFE804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D170E591-3E49-4359-87EF-2F15B8EFE804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB835DA-CFDA-4B7B-B08D-6B0A60CCFB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB835DA-CFDA-4B7B-B08D-6B0A60CCFB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB835DA-CFDA-4B7B-B08D-6B0A60CCFB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB835DA-CFDA-4B7B-B08D-6B0A60CCFB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
